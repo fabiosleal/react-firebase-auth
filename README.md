@@ -1,1 +1,1 @@
-# firebase-google-auth
+# react-firebase-auth
